@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "6ae7",
+      "email": "qwerty@gmail.com",
+      "password": "Qwerty123!"
+    },
+    {
+      "id": "1254",
+      "email": "asd@gmail.com",
+      "password": "Qwerty123!"
+    }
+  ],
+  "authors": [
+    {
+      "id": "65b2",
+      "author": "el pepe",
+      "age": "12"
+    },
+    {
+      "id": "8ae3",
+      "author": "alejandro el pro",
+      "age": "25"
+    }
+  ],
+  "books": []
+}
